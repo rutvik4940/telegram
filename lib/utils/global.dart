@@ -1,0 +1,13 @@
+List<Map>personList=[
+  {"name":"rutvik","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+  {"name":"om","messeage":"hello","images":"assets/images/carpathian-summer-warmest-beautiful-time-year-abundance-flowers-clear-lakes-lush-alpine-meadows-grass-36248044.jpg"},
+  {"name":"om","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+  {"name":"ajay","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+  {"name":"hardik","messeage":"hello","images":"assets/images/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg"},
+  {"name":"dhaval","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+  {"name":"darshan","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+  {"name":"jenish","messeage":"hello","images":"assets/images/morning-landscape-mountains-31761569.jpg"},
+  {"name":"sumit","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+  {"name":"akash","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+  {"name":"ankit","messeage":"hello","images":"assets/images/43db4682a57bbddf864719d9403919eb.jpg"},
+];
